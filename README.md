@@ -1,2 +1,2 @@
-# TP--Technique-de-l-IA-1
+# TPs--Technique-de-l-IA-
 .
